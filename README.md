@@ -24,8 +24,8 @@ By: Donavan Brown, Dioris Diaz, Page Tyler, Daniel Gibbons
 
 ##Links
 
-https://dioris-cpu.github.io/group-Project-1/#
-https://github.com/Dioris-cpu/group-Project-1
+Original Repo:  https://dioris-cpu.github.io/group-Project-1/#
+Deployed Site:  https://github.com/Dioris-cpu/group-Project-1
 
 Screenshot:
 https://user-images.githubusercontent.com/48693333/72358079-01c92d80-36ba-11ea-8ac0-06fa6704a6cd.png
